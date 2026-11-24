@@ -1,0 +1,14 @@
+user_id,username,password,role,status,additional_data
+10001,teacher01,pass123,TA,enabled,FIT9136;FIT5136
+10002,teacher02,pass123,TA,enabled,FIT9137
+10003,teacher03,pass123,TA,disabled,FIT5136
+20001,student01,pass123,ST,enabled,FIT9136:77;FIT5136:89;FIT9137:60
+20002,student02,pass123,ST,enabled,FIT9136:78;FIT9137:92
+20003,student03,pass123,ST,enabled,FIT9137:88
+20004,student04,pass123,ST,enabled,FIT9136:65;FIT5136:72
+20005,student05,pass123,ST,enabled,
+20006,student06,pass123,ST,disabled,FIT9136:55
+20007,student07,pass123,ST,enabled,FIT5136:95;FIT9137:89
+20008,student08,pass123,ST,enabled,FIT9136:82
+20009,student09,pass123,ST,enabled,FIT9137:76
+20010,student10,pass123,ST,enabled,FIT9136:91;FIT5136:88;FIT9137:84

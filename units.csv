@@ -1,0 +1,4 @@
+unit_id,unit_code,unit_name,capacity,teacher_id
+1111111,FIT9136,Programming Foundations in C,30,10001
+1111112,FIT5136,Advanced Programming,25,10001
+1111113,FIT9137,Algorithms and Complexity,20,10002
